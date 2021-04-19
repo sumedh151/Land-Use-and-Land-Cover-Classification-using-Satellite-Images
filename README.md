@@ -8,8 +8,8 @@ The dataset used is EuroSAT. It consists of 27,000 spanning over 10 classes. The
 
 ### Team
 The team consists of four members :
-1. Sumedh Ghavat
-2. Parth Kodnani
-3. Harshita Singh
+1. Sumedh Ghavat - https://github.com/singhharshita
+2. Parth Kodnani - https://github.com/parthkodnani92
+3. Harshita Singh - https://github.com/singhharshita
 4. Mrs. Jayashree Hajgude (Mentor)
 
